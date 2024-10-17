@@ -13,7 +13,7 @@
   <properties>
     <gmavenVersion>1.4</gmavenVersion>
     <gmavenProviderSelection>1.8</gmavenProviderSelection>
-    <groovyVersion>1.8.8</groovyVersion>
+    <groovyVersion>2.4.21</groovyVersion>
   </properties>
 
   <dependencies>
